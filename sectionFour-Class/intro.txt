@@ -1,0 +1,23 @@
+ las interfaces son plantillas para las clases
+
+
+ ## Clase es: una plantilla para la creación de objetos que comparte un modelo predefinido
+        DEFINE: Metodos, Atributos de dicho objetos
+
+     ### Cuando esa clase se va a emplear ( se instancia ) se crea un objeto en base a esa clase
+
+    Ejm:
+        **plantilla**
+    Objeto:
+        Auto
+    Propiedades:
+            color
+            marca
+            numero ruedas
+            numero puertas
+    Metodos:
+        Arrancar
+        Acelerar
+        frenar
+
+ 
