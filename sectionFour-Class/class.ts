@@ -16,10 +16,10 @@ class Car {
     }
 
     // Metodos-funciones
-    speed():void{                           // Acelerar
+    speed():void{
         console.log('im accelerating!!!!')
     }
-    brake():void{                           // frenar
+    brake():void{
         console.log('im holding back!!!!')
     }
 }
