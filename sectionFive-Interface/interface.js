@@ -1,5 +1,6 @@
 // Esta define una serie de atributos (Sin ser definidos) y propiedades pudiendo generar variables nuevas del tipo Ejm persona
 // Interfas defino un atributo como objeto ... ejm variable de tipo persona 
+
 function walk(person) {
     console.log('The person ' + person.name + ' is walking');
 }
