@@ -11,7 +11,7 @@ por eso nacen los datos o el tipado generico.
 funciones genericas - clases genericas
 
 ****funciones genericas
-    Funcion generica , la < T > es por Convencion, tambien recibe una interfas
+    Funcion generica , la < T > es por Convención, tambien recibe una interfaz
 
 ***Interfaces genericas
     A diferencia de las clases "las Interfaces deben de tener un tipo de dato por default"

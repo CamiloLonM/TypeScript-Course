@@ -1,6 +1,6 @@
 interfaces ___ es parecido a la clase, se pueden usar las dos
  
- ## Que es un interfas?
+ ## Qué es un interfaZ?
     Es como una plantilla donde definimos las propiedades una funciones, pero a la hora --
     de implementarlas necesitamos que sean iguales a como se definieron
 

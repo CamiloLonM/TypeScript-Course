@@ -1,5 +1,5 @@
-// get y set .... sirve para interceptar a un mienbro de un objeto
-// tener control sibre las propiedades de nuestra clase
+// get y set .... sirve para interceptar a un miembro de un objeto
+// tener control siempre las propiedades de nuestra clase
 
 let permission:boolean = false
 
